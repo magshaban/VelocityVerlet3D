@@ -18,9 +18,7 @@ There is an input file <input.txt>, this file contains the simulation parammeter
         you can un the produced trajectory file by using OVITTO MD program.
   
 
- # Author:
- Maged Shaban
- 
- maged.shaban[at]mathmods.eu
- 
- Gdansk University of Technology, February 2, 2017.
+# Author:
+ Maged Shaban <br />
+ maged.shaban[at]mathmods.eu <br />
+ Gdansk University of Technology, February 2, 2017. <br />
