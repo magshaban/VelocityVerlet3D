@@ -1,0 +1,9 @@
+epsilon			0.0104
+sigma			3.4
+mass			39.948
+timestep		1.0
+nsteps			20000
+thermo			1
+log				thermo.dat
+trajectory 		trajectory.xyz
+atomic_sys		atoms.xyz
