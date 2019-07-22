@@ -1,6 +1,5 @@
 # Velocity Verlet Algorithm
-Implementation of Velocity Verlet Algorithm from Lennard Jonnes System.
-
+Implementation of Velocity Verlet Algorithm from Lennard Jonnes System. <br />
 This algorithm used to calculate trajectories of particles in molecular dynamics simulations and computer graphics.
 
 
