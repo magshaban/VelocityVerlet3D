@@ -1,7 +1,7 @@
 # Velocity Verlet Algorithm
 Implementation of Velocity Verlet Algorithm from Lennard Jonnes System in 3D. <br />
-This algorithm used to calculate trajectories of particles in molecular dynamics simulations and computer graphics.
-
+This algorithm used to calculate trajectories of particles in molecular dynamics simulations and computer graphics. <br />
+The main file is <vvt.cpp>.
 
 
 ## To run:
